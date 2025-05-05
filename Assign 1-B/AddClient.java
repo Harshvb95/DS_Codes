@@ -23,7 +23,7 @@ Looks it up using Naming.lookup(...).
 Calls add() remotely.
 
  */
-//rmiregistry 
+//rmiregistry or start rmiregistry
 //java AddServer
  //java AddClient localhost 5 7
 
